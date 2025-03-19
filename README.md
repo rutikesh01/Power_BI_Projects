@@ -37,7 +37,7 @@ Retail businesses are increasingly relying on data-driven strategies to optimize
 ## Screenshots
 Below are some screenshots demonstrating key views of the dashboards:
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](C:\Users\Admin\Desktop\SkilloVilla\Capstone Project\Power BI\Nexusgoods store capstone\ScreenShots\Screenshot.png)
 <!-- Add more images as necessary -->
 
 ## Future Enhancements
@@ -48,4 +48,4 @@ Below are some screenshots demonstrating key views of the dashboards:
 
 ## Contact
 For any questions or further information, please contact:
-- **Your Name:** [your.email@example.com](mailto:your.email@example.com)
+- **Your Name:** [waghrutikesh1@gmail.com](mailto:waghrutikesh1@gmail.com)
