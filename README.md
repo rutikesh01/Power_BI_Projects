@@ -14,7 +14,7 @@ Retail businesses are increasingly relying on data-driven strategies to optimize
 - **Visual Variety:** Use of bar charts, line graphs, pie charts, and maps to represent data in a user-friendly format.
 
 ## Data Sources
-- **Primary Dataset:** (Describe your data source, e.g., fictional retail data or real datasets)
+- **Primary Dataset:** (Nexusgoods_orders_dataset, Nexusgoods_order_reviews_dataset, Nexusgoods_order_payments_dataset, Nexusgoods_order_items_dataset etc.)
 - **Data Preparation:** Data was cleaned and transformed using Power Query and DAX functions within Power BI.
 - **Notes:** Mention any limitations or assumptions made during the data preparation process.
 
